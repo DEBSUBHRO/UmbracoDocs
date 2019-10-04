@@ -24,7 +24,7 @@ Describes the different terms and objects used in Examine such as Indexers, Sear
 
 Provides an overview of the available Examine functionality available directly within the Umbraco backoffice
 
-## [Overview & Explanation - "Examining Examine by Peter Gregory"](overview-explanation.md)
+## [Overview & Explanation - "Examining "Examine" by Peter Gregory"](overview-explanation.md)
 
 A detailed overview from top to bottom of how to use Examine
 
